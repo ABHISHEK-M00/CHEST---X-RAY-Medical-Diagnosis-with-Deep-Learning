@@ -154,8 +154,8 @@ Licensed under the MIT License. See the [LICENSE](./LICENSE) file for full licen
 ## Contact
 
 For any questions, issues, or collaboration inquiries, please contact:
-- Maintainer: [maintainer@example.com](mailto:naitik@wayne.edu)
-
+- Maintainer: [abhishekmanat@gmail.com](mailto:abhishekmanat@gmail.com),[amaljithprakash7@gmail.com](mailto:amaljithprakash7@gmail.com)
+- 
 ---
 
 ## Acknowledgements
