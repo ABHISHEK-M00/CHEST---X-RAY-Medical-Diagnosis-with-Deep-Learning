@@ -1,6 +1,6 @@
 # Chest X-Ray Medical Diagnosis with Deep Learning
 
-A deep learning–driven system for chest X-ray analysis, employing advanced CNN models and efficient data handling techniques to support accurate medical diagnosis.
+An advanced deep learning–based project developed for comprehensive chest X-ray analysis. The system is designed to assist healthcare professionals, researchers, and data scientists by providing reliable diagnostic support. It employs sophisticated Convolutional Neural Network (CNN) architectures along with efficient data preprocessing and handling techniques to accurately analyze medical imaging data and enhance diagnostic decision-making.
 
 ---
 
