@@ -147,14 +147,15 @@ We encourage contributions to enhance performance, usability, and research disco
 
 ## License
 
-Licensed under the MIT License. See the [LICENSE](./LICENSE) file for full license details.
+Licensed under the  License. See the [LICENSE](./LICENSE) file for full license details.
 
 ---
 
 ## Contact
 
 For any questions, issues, or collaboration inquiries, please contact:
-- Maintainer: [abhishekmanat@gmail.com](mailto:abhishekmanat@gmail.com),[amaljithprakash7@gmail.com](mailto:amaljithprakash7@gmail.com)
+- Maintainer: [abhishekmanat@gmail.com](mailto:abhishekmanat@gmail.com),
+-             [amaljithprakash7@gmail.com](mailto:amaljithprakash7@gmail.com)
 - 
 ---
 
